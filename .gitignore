@@ -1,0 +1,9 @@
+*.tar.gz 
+*.zip 
+*.sql 
+*.sql.gz 
+*.rar
+*.tar
+*.tgz
+.idea/*
+.idea
